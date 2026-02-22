@@ -68,5 +68,3 @@ Below are images showing the different sections of the webpage:
 | ![Section 8](Images/image8.png) |
 
 ---
-
-Feel free to explore and modify the project as needed!
